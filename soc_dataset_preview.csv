@@ -1,0 +1,2521 @@
+﻿attack_type,threat_level,instruction_preview,output_preview
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: trung bình (...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.6 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: n...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: ngắn (30.2ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: ngắn (33.3ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: n...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: trung bình (...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: trung bình (...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.3 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: trung bình (...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.4 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: n...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: ngắn (932.3m...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: n...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.2 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.4 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: ngắn (758.8m...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: ngắn (748.4m...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: trung bình (...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: ngắn (635.8m...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.7 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: trung bình (...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: trung bình (...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DDoS,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: ngắn (168.1m...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Distributed Denial of Service (DDoS)
+
+**Nhận định:**
+Flow thể hiện đặc trưng của tấn công DDoS: lưu lượng cực cao, tốc độ gói tin bất thường..."
+DoS,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: tức thì (<1m...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.6 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.7 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: ngắn (11.0ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: n...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.4 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.7 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: n...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.7 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời g...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.6 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: t...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.6 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.2 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: n...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.4 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: dài (1.6 phú...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: d...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+DoS,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Denial of Service (DoS) — Single Source
+
+**Nhận định:**
+Flow từ một nguồn duy nhất với các đặc trưng DoS: khai thác lỗ hổng giao thức (slowloris..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 34573 (custom) | T...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 1352 (custom) |...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 12174 (custom) | T...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 990 (custom) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 1300 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 10629 (custom) ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 57294 (custom) | T...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 5033 (custom) | Thời gian flow: tức thì ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 4662 (custom) | Thời gian flo...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 119 (custom) | Thời gian flow: tức thì (...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 24800 (custom) | Thời gian flow: tức thì...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 7025 (custom) | Thời gian flow: tức thì ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 1108 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 3077 (custom) | Thời gian flo...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 9535 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 2013 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 389 (custom) | Thời gian flow...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 20221 (custom) | Thời gian fl...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 2035 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 8085 (custom) | Thời gian flow: tức thì ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 5859 (custom) |...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 5269 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 1001 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 548 (custom) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 425 (custom) | Thời gian flow...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 407 (custom) | ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 1111 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 1233 (custom) | Thời gian flo...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 995 (custom) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 5963 (custom) | Thời gian flow: tức thì ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 3211 (custom) | Thời gian flo...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 9290 (custom) | Thời gian flow: tức thì ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 1001 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 4003 (custom) | Thời gian flow: tức thì ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 8192 (custom) | Thời gian flow: tức thì ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 1073 (custom) | Thời gian flo...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 100 (custom) | Thời gian flow...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 163 (custom) | Thời gian flow: tức thì (...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 6059 (custom) |...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 15660 (custom) ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 7106 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 64680 (custom) ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 2200 (custom) | Thời gian flow: tức thì ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 8085 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 1839 (custom) | Thời gian flow: tức thì ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 18101 (custom) | Thời gian fl...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 765 (custom) | Thời gian flow: tức thì (...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+PortScan,MEDIUM,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 1022 (custom) | Thời gian flo...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: MEDIUM
+Phân loại: Reconnaissance — Port Scanning
+
+**Nhận định:**
+Hoạt động quét cổng từ một IP nguồn: kẻ tấn công đang thu thập thông tin về hạ tầng mạng, xác đ..."
+BruteForce,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gian flow: tứ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gian flow: trung bình (9...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gian flow: tức thì (<1ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gian flow: trung bình (8...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gian flow: tứ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gian flow: tức thì (<1ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gian flow: tr...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gian flow: trung bình (1...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gian flow: trung bình (1...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gian flow: tức thì (<1ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gian flow: trung bình (1...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gian flow: tức thì (<1ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gian flow: tức thì (<1ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gian flow: tức thì (<1ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gian flow: tức thì (<1ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gian flow: tứ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gian flow: trung bình (8...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời gian flow: tứ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gian flow: tức thì (<1ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gian flow: tr...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+BruteForce,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 21 (FTP) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Credential Brute Force Attack
+
+**Nhận định:**
+Tấn công dò mật khẩu bằng cách thử nhiều credential liên tiếp. Phổ biến nhất là FTP-Patator và SSH..."
+Bot,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | Thời gian f...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | Thời gian f...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 52935 (custom) | Thời gian flow: tức thì...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt)...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 51632 (custom) | Thời gian flow: tức thì...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | Thời gian f...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 2961 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 53098 (custom) | T...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | Thời gian f...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 53347 (custom) | Thời gian fl...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | Thời gian f...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 53519 (custom) | Thời gian flow: tức thì...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt)...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | Thời gian f...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 53530 (custom) ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 51793 (custom) ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt)...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 51633 (custom) | T...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt)...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 52239 (custom) | Thời gian flow: tức thì...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | Thời gian flow: ngắn (...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | Thời gian flow: ngắn (...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt)...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 53721 (custom) ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 2989 (custom) | Th...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 53713 (custom) | Thời gian fl...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 51608 (custom) | Thời gian flow: tức thì...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 51612 (custom) | T...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 52165 (custom) ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | Thời gian flow: trung ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt) | ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+Bot,HIGH,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 8080 (HTTP-alt)...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: HIGH
+Phân loại: Botnet Command & Control (C2) Traffic
+
+**Nhận định:**
+Lưu lượng C2 của botnet: máy trong mạng đã bị nhiễm malware và đang giao tiếp với C2 serve..."
+BENIGN,INFO,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gian flow: tức thì (<1ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 443 (HTTPS) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 443 (HTTPS) | T...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gian flow: ngắn (79.3ms)...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 443 (HTTPS) | Thời gian flow: ngắn (294....","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gian flow: ng...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 60741 (custom) | T...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 443 (HTTPS) | T...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 50513 (custom) | Thời gian flow: tức thì...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 443 (HTTPS) | Thời gian flow:...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gian flow: tức thì (<1ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 3268 (custom) | Thời gian flo...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 443 (HTTPS) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 22 (SSH) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gian flow: ng...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 41436 (custom) | Thời gian fl...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gian flow: ngắn (64.1ms)...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 443 (HTTPS) | Thời gian flow: trung bình...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 54184 (custom) ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 55717 (custom) ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 443 (HTTPS) | Thời gian flow: dài (1.2 p...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gian flow: ngắn (23.8ms)...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 443 (HTTPS) | Thời gian flow: trung bình...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gian flow: tức thì (<1ms...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 61101 (custom) | T...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 80 (HTTP) | Thời gian flow: tức thì (<1m...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 41965 (custom) ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gi...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 443 (HTTPS) | Thời gian flow:...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 50941 (custom) | T...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+BENIGN,INFO,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 53 (DNS) | Thời gian flow: ng...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: INFO
+Phân loại: Lưu lượng bình thường (Benign Traffic)
+
+**Nhận định:**
+Flow mạng nằm trong baseline bình thường. Các thông số về tốc độ, tỷ lệ gói tin, TCP flag..."
+Infiltration,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 444 (custom) | ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Network Infiltration — Post-Compromise Activity
+
+**Nhận định:**
+Dấu hiệu của attacker đã xâm nhập vào mạng nội bộ và đang thực hiện lateral ..."
+Infiltration,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thời gian flow: dài (1.9 ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Network Infiltration — Post-Compromise Activity
+
+**Nhận định:**
+Dấu hiệu của attacker đã xâm nhập vào mạng nội bộ và đang thực hiện lateral ..."
+Infiltration,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 444 (custom) | ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Network Infiltration — Post-Compromise Activity
+
+**Nhận định:**
+Dấu hiệu của attacker đã xâm nhập vào mạng nội bộ và đang thực hiện lateral ..."
+Infiltration,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thời gian flow...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Network Infiltration — Post-Compromise Activity
+
+**Nhận định:**
+Dấu hiệu của attacker đã xâm nhập vào mạng nội bộ và đang thực hiện lateral ..."
+Infiltration,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 444 (custom) | ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Network Infiltration — Post-Compromise Activity
+
+**Nhận định:**
+Dấu hiệu của attacker đã xâm nhập vào mạng nội bộ và đang thực hiện lateral ..."
+Infiltration,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 444 (custom) | ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Network Infiltration — Post-Compromise Activity
+
+**Nhận định:**
+Dấu hiệu của attacker đã xâm nhập vào mạng nội bộ và đang thực hiện lateral ..."
+Infiltration,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Network Infiltration — Post-Compromise Activity
+
+**Nhận định:**
+Dấu hiệu của attacker đã xâm nhập vào mạng nội bộ và đang thực hiện lateral ..."
+Infiltration,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Network Infiltration — Post-Compromise Activity
+
+**Nhận định:**
+Dấu hiệu của attacker đã xâm nhập vào mạng nội bộ và đang thực hiện lateral ..."
+Infiltration,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thời gian flow: dài (2.0 ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Network Infiltration — Post-Compromise Activity
+
+**Nhận định:**
+Dấu hiệu của attacker đã xâm nhập vào mạng nội bộ và đang thực hiện lateral ..."
+Infiltration,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thời gian flow...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Network Infiltration — Post-Compromise Activity
+
+**Nhận định:**
+Dấu hiệu của attacker đã xâm nhập vào mạng nội bộ và đang thực hiện lateral ..."
+Heartbleed,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thời gian flow...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Heartbleed (CVE-2014-0160) — OpenSSL Vulnerability Exploit
+
+**Nhận định:**
+Khai thác lỗ hổng Heartbleed trong OpenSSL: attacker gửi malforme..."
+Heartbleed,CRITICAL,"Đánh giá mức độ nguy hiểm của flow mạng này và đề xuất biện pháp ứng phó:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thờ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Heartbleed (CVE-2014-0160) — OpenSSL Vulnerability Exploit
+
+**Nhận định:**
+Khai thác lỗ hổng Heartbleed trong OpenSSL: attacker gửi malforme..."
+Heartbleed,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 444 (custom) | ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Heartbleed (CVE-2014-0160) — OpenSSL Vulnerability Exploit
+
+**Nhận định:**
+Khai thác lỗ hổng Heartbleed trong OpenSSL: attacker gửi malforme..."
+Heartbleed,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thời gian flow...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Heartbleed (CVE-2014-0160) — OpenSSL Vulnerability Exploit
+
+**Nhận định:**
+Khai thác lỗ hổng Heartbleed trong OpenSSL: attacker gửi malforme..."
+Heartbleed,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thời gian flow: dài (2.0 ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Heartbleed (CVE-2014-0160) — OpenSSL Vulnerability Exploit
+
+**Nhận định:**
+Khai thác lỗ hổng Heartbleed trong OpenSSL: attacker gửi malforme..."
+Heartbleed,CRITICAL,"Phân tích flow mạng sau và đưa ra đánh giá bảo mật:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thời gian flow: dài (2.0 ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Heartbleed (CVE-2014-0160) — OpenSSL Vulnerability Exploit
+
+**Nhận định:**
+Khai thác lỗ hổng Heartbleed trong OpenSSL: attacker gửi malforme..."
+Heartbleed,CRITICAL,"Hệ thống SIEM cảnh báo về flow mạng sau. Hãy phân tích và đề xuất hành động:
+Giao thức: TCP | Cổng đích: 444 (custom) | ...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Heartbleed (CVE-2014-0160) — OpenSSL Vulnerability Exploit
+
+**Nhận định:**
+Khai thác lỗ hổng Heartbleed trong OpenSSL: attacker gửi malforme..."
+Heartbleed,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thời gian flow...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Heartbleed (CVE-2014-0160) — OpenSSL Vulnerability Exploit
+
+**Nhận định:**
+Khai thác lỗ hổng Heartbleed trong OpenSSL: attacker gửi malforme..."
+Heartbleed,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thời gian flow...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Heartbleed (CVE-2014-0160) — OpenSSL Vulnerability Exploit
+
+**Nhận định:**
+Khai thác lỗ hổng Heartbleed trong OpenSSL: attacker gửi malforme..."
+Heartbleed,CRITICAL,"Với tư cách chuyên gia SOC, hãy phân loại và xử lý luồng mạng:
+Giao thức: TCP | Cổng đích: 444 (custom) | Thời gian flow...","**PHÂN TÍCH FLOW MẠNG**
+
+Mức độ đe dọa: CRITICAL
+Phân loại: Heartbleed (CVE-2014-0160) — OpenSSL Vulnerability Exploit
+
+**Nhận định:**
+Khai thác lỗ hổng Heartbleed trong OpenSSL: attacker gửi malforme..."
